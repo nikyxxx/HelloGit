@@ -28,10 +28,3 @@ _ReSharper*/
 *.vssscc
 $tf*/
 .tfignore
-WindowsFormsApplication2.sln
-WindowsFormsApplication2/Properties/AssemblyInfo.cs
-WindowsFormsApplication2/Properties/Resources.Designer.cs
-WindowsFormsApplication2/Properties/Resources.resx
-WindowsFormsApplication2/Properties/Settings.Designer.cs
-WindowsFormsApplication2/Properties/Settings.settings
-WindowsFormsApplication2/WindowsFormsApplication2.csproj
