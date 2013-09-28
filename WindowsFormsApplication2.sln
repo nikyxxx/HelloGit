@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication2", "WindowsFormsApplication2\WindowsFormsApplication2.csproj", "{1790CBDE-E381-44FB-A1BD-E49446A0D300}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{38C50FA5-531A-4C1A-8D28-EA65DD61FDC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{1790CBDE-E381-44FB-A1BD-E49446A0D300}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1790CBDE-E381-44FB-A1BD-E49446A0D300}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1790CBDE-E381-44FB-A1BD-E49446A0D300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C50FA5-531A-4C1A-8D28-EA65DD61FDC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C50FA5-531A-4C1A-8D28-EA65DD61FDC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C50FA5-531A-4C1A-8D28-EA65DD61FDC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C50FA5-531A-4C1A-8D28-EA65DD61FDC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
